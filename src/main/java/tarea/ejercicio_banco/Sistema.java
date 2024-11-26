@@ -1,6 +1,6 @@
 package tarea.ejercicio_banco;
 
-//Author: Jhon Díaz
+//Author: Juan Pablo Uribe
 //Abstract: Ejercicio banco
 
 import java.util.Scanner;

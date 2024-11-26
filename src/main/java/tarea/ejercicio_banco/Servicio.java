@@ -1,6 +1,6 @@
 package tarea.ejercicio_banco;
 
-// Author: Miguel Ortiz
+// Author: Miguel Ortiz.
 // Abstract: Ejercicio banco
 
 import java.util.HashMap; // Se importa Hash y Map para guardar datos en llaves para los datos del banco
